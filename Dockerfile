@@ -1,3 +1,4 @@
 FROM NGINX
+
 EXPOSE 80
 
